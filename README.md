@@ -1,34 +1,125 @@
-<h1 align="center">Hi 👋, I'm Mohsin Sohail</h1>
-<h3 align="center">Cybersecurity Student & Web Developer from Pakistan 🇵🇰</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zombie321-v&label=Profile%20views&color=0e75b6&style=flat" alt="zombie321-v" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zombie321-v" alt="zombie321-v" /></a> </p>
-
-- 🔭 I’m currently working on [AI & Web-Based Tools](https://kfc-deal.vercel.app/)
-
-- 🌱 I’m currently learning **Cybersecurity, AI & Full-Stack Development**
-
-- 👯 I’m looking to collaborate on **Web & AI Projects**
-
-- 🤝 I’m looking for help with **Advanced AI Integration**
-
-- 💬 Ask me about **HTML, CSS, JavaScript, Python, PHP, Node , React & APIs**
-
-- 📫 How to reach me **zombievirus321@gmail.com**
-
-- ⚡ Fun fact **I love turning ideas into real-world tools**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/btw._.moxie_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="btw._.moxie_1" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zombie321-v&show_icons=true&locale=en&layout=compact" alt="zombie321-v" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zombie321-v&show_icons=true&locale=en" alt="zombie321-v" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zombie321-v&" alt="zombie321-v" /></p>
+<!-- ===================== PREMIUM GITHUB PROFILE ===================== -->
+<div align="center">
+⚡ MOHSIN SOHAIL
+`CYBERSECURITY` • `WEB DEVELOPMENT` • `AI & AUTOMATION`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00E7FF&center=true&vCenter=true&width=720&lines=Cybersecurity+Student+%F0%9F%9B%A1%EF%B8%8F;Web+Developer+%F0%9F%92%BB;Building+AI-Powered+Tools+%F0%9F%A4%96;Turning+Ideas+Into+Real-World+Projects+%E2%9A%A1" alt="Typing SVG" />
+<br/>
+<a href="https://github.com/Zombie321-v">
+  <img src="https://img.shields.io/badge/GitHub-Zombie321--v-0D1117?style=for-the-badge&logo=github&logoColor=00E7FF" />
+</a>
+<a href="mailto:zombievirus321@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=FF3B5C" />
+</a>
+<a href="https://instagram.com/btw._.moxie_1">
+  <img src="https://img.shields.io/badge/Instagram-btw._.moxie__1-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+</a>
+<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=Zombie321-v&label=PROFILE+VIEWS&color=00b8d4&style=for-the-badge" alt="Profile Views" />
+</div>
+---
+`> whoami`
+```yaml
+name: Mohsin Sohail
+username: Zombie321-v
+location: Pakistan 🇵🇰
+role: Cybersecurity Student & Web Developer
+focus: [Cybersecurity, AI, Full-Stack Development]
+currently_building: AI & Web-Based Tools
+collaboration: Web & AI Projects
+fun_fact: "I love turning ideas into real-world tools."
+```
+---
+⚡ Tech Arsenal
+<div align="center">
+Languages
+<img src="https://skillicons.dev/icons?i=python,js,php,c,cpp,kotlin,html,css&theme=dark" />
+Frameworks & Development
+<img src="https://skillicons.dev/icons?i=react,nodejs,bootstrap,tailwind,sass,flutter,mysql&theme=dark" />
+Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,linux,figma,androidstudio,photoshop,illustrator,blender&theme=dark" />
+</div>
+---
+📊 GitHub Intelligence
+<div align="center">
+<img width="72%" src="https://ghstats.dev/api/card?username=Zombie321-v&theme=tokyonight&show_icons=true" alt="Mohsin Sohail GitHub Stats" />
+<br/>
+<img width="72%" src="https://ghstats.dev/api/langs?username=Zombie321-v&theme=tokyonight&layout=bar&max_langs=8" alt="Most Used Languages" />
+</div>
+⚙️ Live Developer Metrics
+<div align="center">
+<img src="https://ghstats.dev/api/mini?username=Zombie321-v&metric=repos&label=PUBLIC%20REPOS&style=for-the-badge" alt="Public Repositories" />
+<img src="https://ghstats.dev/api/mini?username=Zombie321-v&metric=stars&label=TOTAL%20STARS&style=for-the-badge" alt="Total Stars" />
+<img src="https://ghstats.dev/api/mini?username=Zombie321-v&metric=commits&label=COMMITS&style=for-the-badge" alt="Commits" />
+<img src="https://ghstats.dev/api/mini?username=Zombie321-v&metric=contributions&label=CONTRIBUTIONS&style=for-the-badge" alt="Contributions" />
+</div>
+---
+🔥 Contribution Streak
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=Zombie321-v&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</div>
+---
+📈 Contribution Activity
+<div align="center">
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zombie321-v&theme=tokyonight" alt="Contribution Activity Graph" />
+</div>
+---
+🚀 Featured Work
+<table>
+<tr>
+<td width="50%" valign="top">
+🤖 AI & Web-Based Tools
+Building practical AI-powered and web-based utilities with a focus on clean interfaces, useful automation and real-world functionality.
+Stack: `JavaScript` `APIs` `AI` `Web`
+<a href="https://kfc-deal.vercel.app/">↗ View Live Project</a>
+</td>
+<td width="50%" valign="top">
+🛡️ Cybersecurity Journey
+Learning cybersecurity while building development projects, experimenting with Linux, APIs, automation and modern web technologies.
+Focus: `Cybersecurity` `Linux` `Python` `Automation`
+<a href="https://github.com/Zombie321-v?tab=repositories">↗ Explore Repositories</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+🌐 Web Development
+Creating responsive web experiences and experimenting with modern frontend technologies, UI design and API integrations.
+Stack: `HTML` `CSS` `JavaScript` `React`
+<a href="https://github.com/Zombie321-v?tab=repositories">↗ View Projects</a>
+</td>
+<td width="50%" valign="top">
+⚙️ Automation & APIs
+Exploring ways to connect services, automate repetitive workflows and turn ideas into useful developer tools.
+Stack: `Python` `Node.js` `PHP` `REST APIs`
+<a href="https://github.com/Zombie321-v?tab=repositories">↗ View Code</a>
+</td>
+</tr>
+</table>
+---
+🧠 Current Mission
+```text
+[+] Strengthening Cybersecurity fundamentals
+[+] Building AI-powered web tools
+[+] Improving Full-Stack Development
+[+] Learning advanced API & AI integrations
+[+] Shipping more real-world projects
+```
+---
+🌐 Connect With Me
+<div align="center">
+<a href="mailto:zombievirus321@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-zombievirus321%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://instagram.com/btw._.moxie_1">
+<img src="https://img.shields.io/badge/Instagram-@btw._.moxie__1-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://github.com/Zombie321-v">
+<img src="https://img.shields.io/badge/GitHub-@Zombie321--v-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</div>
+---
+<div align="center">
+💠 `BUILD • LEARN • SECURE • CREATE`
+<sub>Designed for Mohsin Sohail • @Zombie321-v</sub>
+<br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:050816,50:0A3D62,100:00E7FF&section=footer" width="100%" alt="Footer" />
+</div>
